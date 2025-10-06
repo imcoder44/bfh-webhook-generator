@@ -1,0 +1,5 @@
+/workspaces/bfh-webhook-generator/src/main/java/com/example/bfhwebhookgenerator/GenerateWebhookRequest.java
+/workspaces/bfh-webhook-generator/src/main/java/com/example/bfhwebhookgenerator/GenerateWebhookResponse.java
+/workspaces/bfh-webhook-generator/src/main/java/com/example/bfhwebhookgenerator/Application.java
+/workspaces/bfh-webhook-generator/src/main/java/com/example/bfhwebhookgenerator/SqlSubmissionClient.java
+/workspaces/bfh-webhook-generator/src/main/java/com/example/bfhwebhookgenerator/WebhookClient.java
